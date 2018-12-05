@@ -1,4 +1,5 @@
-url: https://munderseth.github.io/gh-pages/
+url: https://munderseth.github.io
+baseurl: /gh-pages/
 name: Newco, Inc
 markdown: kramdown
 theme: minima
